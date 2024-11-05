@@ -1,0 +1,11 @@
+import pandas as pd
+import tkinter as tk
+
+supervisores = [
+    {'nome':'Supervisor A', 'entrada': '08:00', 'saida': '17:00', 'ultimo_folga': 'domingo'},
+    {'NOME':'CELIA RAQUEL CARRERA LARROSA','BC':'718036','ENTRADA':'06:30','SAIDA':'14:18','ULTIMA_FOLGA':'DOMINGO'},
+    {'NOME':'LUCIANA DE SOUZA SANTOS','BC':'667581','ENTRADA':'07:00','SAIDA':'14:48','ULTIMA_FOLGA':'SABADO'},
+    {'NOME':'EDILAINE BATISTA LOBO DE SOUZA','BC':'633164','ENTRADA':'07:00','SAIDA':'14:48','ULTIMA_FOLGA':'DOMINGO'},
+    {'NOME':'EWERTON LUIZ MARTINS SANTANA','BC':'778679','ENTRADA':'08:00','SAIDA':'15:48','ULTIMA_FOLGA':'SABADO'},
+    {'NOME':'LUCAS LIMA RODRIGUES DE OLIVEIRA','BC':'746471','ENTRADA':'09:00','SAIDA':'16:48','ULTIMA_FOLGA':''}
+]
